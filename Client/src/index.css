@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+/* Universal styles */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
